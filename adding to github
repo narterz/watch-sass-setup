@@ -1,0 +1,13 @@
+go to new terminal
+
+git init
+(creates a new git repo)
+
+git add .
+(add files to be commited)
+
+git commit -m "name of commit"
+(commits the files)
+
+git push origin main
+(transfers the commit over to github to be updated)
